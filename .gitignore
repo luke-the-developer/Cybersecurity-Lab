@@ -1,0 +1,6 @@
+# Obsidian local settings
+.obsidian/
+
+#Operating system files
+.DS_Store
+Thumbs.db
