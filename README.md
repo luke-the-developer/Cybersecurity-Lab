@@ -1,7 +1,7 @@
-# Cybersecurity-Learning-Journal
-Welcome to my cybersecurity learning journal.
+# Cybersecurity-Lab
+Welcome to my cybersecurity lab.
 
-This repository will track my progress in cybersecurity through practical labs, technical research,, ethical hacking exercises, programming and security research.
+This repository will track research in cybersecurity through practical labs, technical analysis, ethical hacking exercises, programming and security research.
 
 # Aim
 - Prepare for future cybersecurity research tasks and investigations within academia and industry
@@ -26,16 +26,19 @@ This repository will track my progress in cybersecurity through practical labs, 
 A separate project follows my isolated VirtualBox environment focused on malware analysis and investigation alongside practical research. 
 
 # Research approach
-Each completed exercise and piece of work will incorporate the following:
+Completed exercises, research and analysis will be incorporated into the following:
 
 ## Lab Journal
 - Title
-- Learning Goals
 - Key lab notes
 - Key commands
 - What I Did
+- Findings
 - What I could do better
 - Key Learning Outcomes
+- References and Acknowledgements
+
+Where appropriate a formal report will be drafted and available upon request
 
 ## Security research Reports
 - Title
@@ -48,6 +51,3 @@ Each completed exercise and piece of work will incorporate the following:
 
 # Ethical Use
 All of the practical exercises I undertake are intended for educational purposes and are conducted in authorised environments. Sensitive information, credentials and restricted challenge solutions will not be published.
-
-# Current Status
-In progress - currently advancing my cybersecurity knowledge base and documenting as much as I can from this point forwards for the beneits of academia 
